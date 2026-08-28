@@ -21,7 +21,8 @@ rna_codon_table <- c(
 )
 
 # User inputs an genetic string, corresponding to a strand of mRNA (messenger RNA)
-rna_sequence <- readline(prompt = "Enter RNA sequence: ")
+cat("Enter RNA sequence: ")
+rna_sequence <- readLines(file("stdin"), n = 1)
 
 # Validate RNA sequence length is divisible by 3
 if (nchar(rna_sequence) %% 3 != 0) {
