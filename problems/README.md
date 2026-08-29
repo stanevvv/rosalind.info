@@ -15,3 +15,4 @@ Solutions to selected Rosalind bioinformatics problems.
 | HAMM | Counting Point Mutations | Sequence comparison | [solution.py](HAMM/solution.py) | — |
 | IPRB | Mendel's First Law | Genetics and probability | [solution.py](IPRB/solution.py) | — |
 | PROT | Translating RNA into Protein | Protein translation | — | [solution.R](PROT/solution.R) |
+| SUBS | Finding a Motif in DNA | Sequence analysis | — | [solution.R](SUBS/solution.R) |
