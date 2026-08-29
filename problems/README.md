@@ -3,6 +3,7 @@
 Solutions to selected Rosalind bioinformatics problems.
 
 [List view of all problems](https://rosalind.info/problems/list-view/)
+[Tree view of all problems](https://rosalind.info/problems/tree-view/)
 
 | ID | Problem | Topic | Python | R |
 |---|---|---|:---:|:---:|
