@@ -7,6 +7,8 @@ Solutions to selected Rosalind bioinformatics problems.
 
 | ID | Problem | Topic | Python | R |
 |---|---|---|:---:|:---:|
+| DNA | Counting DNA Nucleotides | Sequence analysis | — | [solution.R](DNA/solution.R) |
+| RNA | Transcribing DNA into RNA | Transcription | — | [solution.R](RNA/solution.R) |
 | REVC | Complementing a Strand of DNA | Sequence manipulation | [solution.py](REVC/solution.py) | — |
 | FIB | Rabbits and Recurrence Relations | Recurrence relations | [solution.py](FIB/solution.py) | — |
 | GC | Computing GC Content | Sequence analysis | [solution.py](GC/solution.py) | — |
