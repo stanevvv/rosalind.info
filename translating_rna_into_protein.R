@@ -20,7 +20,7 @@ rna_codon_table <- c(
   GGU = "G", GGC = "G", GGA = "G", GGG = "G"
 )
 
-# User inputs an genetic string, corresponding to a strand of mRNA (messenger RNA)
+# User inputs a genetic string, corresponding to a strand of mRNA (messenger RNA)
 cat("Enter RNA sequence: ")
 rna_sequence <- readLines(file("stdin"), n = 1)
 
